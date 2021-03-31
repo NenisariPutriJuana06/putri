@@ -1,0 +1,8 @@
+<?php
+
+fuction myFunction($a, $b) {
+
+  echo $a * $b;
+
+}
+?>
